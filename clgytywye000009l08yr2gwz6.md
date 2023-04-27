@@ -5,6 +5,7 @@ seoDescription: "Authentication is the process of identifying the user or entity
 datePublished: Thu Apr 27 2023 07:55:51 GMT+0000 (Coordinated Universal Time)
 cuid: clgytywye000009l08yr2gwz6
 slug: what-is-authentication
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/zwsHjakE_iI/upload/453bce1d2947ceb6e33f575ba0ac40d8.jpeg
 tags: authentication
 
 ---
