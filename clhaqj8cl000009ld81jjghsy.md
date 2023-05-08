@@ -5,6 +5,7 @@ seoDescription: "Embedding means you can store the subdocuments directly within 
 datePublished: Fri May 05 2023 15:52:54 GMT+0000 (Coordinated Universal Time)
 cuid: clhaqj8cl000009ld81jjghsy
 slug: embedding-and-referencing
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/3BgkveM3y_k/upload/80181664e2640ae3d3ce69ee1bb35bd8.jpeg
 tags: mongodb, referencing, embedding
 
 ---
