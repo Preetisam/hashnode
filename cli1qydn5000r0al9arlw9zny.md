@@ -5,6 +5,7 @@ seoDescription: "React state updates may sometimes be asynchronous which means t
 datePublished: Wed May 24 2023 13:34:28 GMT+0000 (Coordinated Universal Time)
 cuid: cli1qydn5000r0al9arlw9zny
 slug: setstate-call-back
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/cxoR55-bels/upload/ee615ea9a83f3cede7c8e77c5944f002.jpeg
 tags: components, set-state-call-back, re-rendered
 
 ---
