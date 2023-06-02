@@ -5,6 +5,7 @@ seoDescription: "React is a powerful web development framework that lets you bui
 datePublished: Wed May 31 2023 08:23:41 GMT+0000 (Coordinated Universal Time)
 cuid: clibfxoos01fnvrnv4k9oae5l
 slug: how-to-use-the-usememo-and-usecallback-hooks-in-react-to-optimize-performance-by-avoiding-unnecessary-re-renders
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/GQD3Av_9A88/upload/f523f575f3257bf12351c9116a6c0d3a.jpeg
 tags: props, usememo, onclick, rerender, processdata
 
 ---
