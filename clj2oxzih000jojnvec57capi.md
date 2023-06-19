@@ -5,6 +5,7 @@ seoDescription: ""Overload components" is not a commonly used term in programmin
 datePublished: Mon Jun 19 2023 10:05:39 GMT+0000 (Coordinated Universal Time)
 cuid: clj2oxzih000jojnvec57capi
 slug: overload-components
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/o0Qqw21-0NI/upload/52a06d66e4f8fda4f242d30aebeb911e.jpeg
 tags: object-oriented-programming, prototypes, optionalprop, defaultprops
 
 ---
