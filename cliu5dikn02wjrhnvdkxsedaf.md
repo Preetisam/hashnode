@@ -5,6 +5,7 @@ seoDescription: "shouldComponentUpdate is a lifecycle method in React that allow
 datePublished: Tue Jun 13 2023 10:35:42 GMT+0000 (Coordinated Universal Time)
 cuid: cliu5dikn02wjrhnvdkxsedaf
 slug: shouldcomponentupdate
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/W8Qqn1PmQH0/upload/9c9f2cece35c45d03c4bdec02ab28f70.jpeg
 tags: rendering, shouldcomponentupdate, late-binding
 
 ---
