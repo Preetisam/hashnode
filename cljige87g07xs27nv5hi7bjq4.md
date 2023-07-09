@@ -5,6 +5,7 @@ seoDescription: "Native bridge or the Native Module API is a way of communicatin
 datePublished: Fri Jun 30 2023 10:50:39 GMT+0000 (Coordinated Universal Time)
 cuid: cljige87g07xs27nv5hi7bjq4
 slug: native-bridge
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/AXqMy8MSSdk/upload/4a720d6f5ee8d186759b2c6201f15fa6.jpeg
 tags: native-module-api, native-bridge, native-functions, optimize-performance, prevent-overloading
 
 ---
