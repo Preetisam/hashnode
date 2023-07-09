@@ -5,6 +5,7 @@ seoDescription: "The relative the position value is used to position an element 
 datePublished: Mon Apr 24 2023 06:53:10 GMT+0000 (Coordinated Universal Time)
 cuid: clguher2p000e0ami8z7l17ye
 slug: learn-css-positioning-propertyrelative-static-and-absolute-positions
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/bKjHgo_Lbpo/upload/d2fa6a73f5d5b058139dcbd775d0b14e.jpeg
 tags: static, position-relative, css-positioning-property, absolute-position
 
 ---
