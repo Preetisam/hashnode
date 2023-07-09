@@ -5,6 +5,7 @@ seoDescription: ""Binding early" is a concept and a technique used in JavaScript
 datePublished: Sat Jun 24 2023 09:51:39 GMT+0000 (Coordinated Universal Time)
 cuid: clj9tn98v032k39nvepyha6ki
 slug: binding-early-what-is-it
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/hxCIfi47FgQ/upload/a65d8ca5d5f1e3a672a48d9574d521eb.jpeg
 tags: binding-early, myboundfunction, bind-handleclick, handleclick
 
 ---
