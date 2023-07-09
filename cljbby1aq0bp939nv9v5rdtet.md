@@ -5,6 +5,7 @@ seoDescription: "Gray-box testing is a software testing methodology that combine
 datePublished: Sun Jun 25 2023 11:11:42 GMT+0000 (Coordinated Universal Time)
 cuid: cljbby1aq0bp939nv9v5rdtet
 slug: gray-box-testing
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/C9WnRj-CZEk/upload/3922bed435986ef6eecbd90001fbd4cb.jpeg
 tags: reactjs, redux, jest, detox, gray-box-testing
 
 ---
