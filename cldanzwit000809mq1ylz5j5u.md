@@ -5,6 +5,7 @@ seoDescription: "Emmet is a plugin for text editors and IDEs that allows develop
 datePublished: Tue Jan 24 2023 20:03:04 GMT+0000 (Coordinated Universal Time)
 cuid: cldanzwit000809mq1ylz5j5u
 slug: what-is-emmet
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/-RBuQ2PK_L8/upload/42acc02f4744285551c6f6d039cf06db.jpeg
 tags: html5, emmet, html5-boilerplate, uses-of-emmet, emmet-html-htmlelemnts-boilerplate
 
 ---
