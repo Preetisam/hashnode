@@ -1,9 +1,11 @@
 ---
-title: "Redux"
-seoTitle: "redux"
+title: "Haven't  Yet Tried Out Redux"
+seoTitle: "Haven't  Yet Tried Out Redux"
+seoDescription: "yet tried out Redux"
 datePublished: Sat Jan 21 2023 13:13:30 GMT+0000 (Coordinated Universal Time)
 cuid: cld5z1mtv000d09mggyux5dlp
-slug: redux
+slug: havent-yet-tried-out-redux
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/V5DBwOOv0bo/upload/cb2afafaf6a5bc39d67a7b20152f0971.jpeg
 tags: javascript, web-development, redux, login-authentication-in-react-js
 
 ---
