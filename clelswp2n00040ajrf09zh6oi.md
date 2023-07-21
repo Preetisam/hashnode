@@ -5,6 +5,7 @@ seoDescription: "componentDidMount() is called once when the component is first 
 datePublished: Sun Feb 26 2023 19:45:43 GMT+0000 (Coordinated Universal Time)
 cuid: clelswp2n00040ajrf09zh6oi
 slug: what-is-the-difference-between-component-didmount-and-component-didupdate
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/webyw4NsFPg/upload/c7a8ac551b160178562b108bea09e3ac.jpeg
 tags: reactjs, frontend-development, componentdidmount, componentdidupdate
 
 ---
